@@ -1,0 +1,11 @@
+name: 'Vocabulary serialization test'
+type: module
+package: Testing
+# version: VERSION
+dependencies:
+  - drupal:taxonomy
+
+# Information added by Drupal.org packaging script on 2024-08-08
+version: '11.0.1'
+project: 'drupal'
+datestamp: 1723108507
